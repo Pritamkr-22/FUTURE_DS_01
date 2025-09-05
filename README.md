@@ -13,17 +13,17 @@ It provides clear insights into:
 - <a href="https://github.com/Pritamkr-22/FUTURE_DS_01/blob/main/superstore.xls.zip)"> Super Store Data</a>
 
 ## ⚙️ Tools & Technologies
-Power BI – Data visualization & dashboard creation
-DAX (Data Analysis Expressions)
-MS Excel / CSV – Data source
-Business Intelligence Concepts – Data cleaning, transformation, and analysis
+- Power BI – Data visualization & dashboard creation
+- DAX (Data Analysis Expressions)
+- MS Excel / CSV – Data source
+- Business Intelligence Concepts – Data cleaning, transformation, and analysis
 
 ## ⚙️ Process
-Collected and cleaned SuperMart sales dataset.
-Imported data into Power BI and created KPIs using DAX.
-Designed dashboard with charts, KPI cards, and filters.
-Added interactivity for region, segment, and category analysis.
-Published final dashboard and uploaded files to GitHub.
+- Collected and cleaned SuperMart sales dataset.
+- Imported data into Power BI and created KPIs using DAX.
+- Designed dashboard with charts, KPI cards, and filters.
+- Added interactivity for region, segment, and category analysis.
+- Published final dashboard and uploaded files to GitHub.
 
 ## ❓KPI Questions
 - What is the total sales of SuperMart?
@@ -45,6 +45,6 @@ This dashboard highlights SuperMart’s key sales and profit insights, helping i
 ## ## 🔹 Author  
 👤 Created by **Pritam Kumar Sahu**  
 💼 Open to feedback & collaboration!  
-🔗 [Connect on LinkedIn](www.linkedin.com/in/pritam-kr-sahu)  
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/pritam-kr-sahu)  
 
 
