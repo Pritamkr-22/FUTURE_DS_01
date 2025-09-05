@@ -5,4 +5,4 @@ The objective of this project is to analyze SuperMart’s sales and profit data 
 It provides clear insights.
 
 ## Datasrt Used
--< a <href="https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository"> Super Store Data</a>
+- <a href="https://github.com/Pritamkr-22/FUTURE_DS_01/blob/main/superstore.xls.zip)"> Super Store Data</a>
