@@ -1,2 +1,11 @@
-# FUTURE_DS_01
-Power BI Superstore Dashboard – An interactive dashboard providing insights into sales, profit, customers, and orders with filters by region, segment, and category.
+# SuperMart Sales & Profit Analysis Dashboard using Power BI
+
+##Project Objective
+
+The objective of this project is to analyze SuperMart’s sales and profit data using interactive Power BI dashboards.
+It provides clear insights into:
+
+Total sales, profit, and orders
+Product-wise and category-wise performance
+Regional and segment-based analysis
+Trends to support better business decision-making
